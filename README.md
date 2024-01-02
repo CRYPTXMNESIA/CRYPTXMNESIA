@@ -2,7 +2,6 @@
 
 > In our hyperconnected world, I'm just a shadow. The ghost in the machine.
 
-![Profile Views](https://komarev.com/ghpvc/?username=retr0dayy&label=Profile%20views&color=000000&style=flat)
 [![Twitter Follow](https://img.shields.io/twitter/follow/retr0dayy?logo=twitter&style=for-the-badge)](https://twitter.com/retr0dayy)
 
 - 🔭 I’m currently working on [corruptizer](https://corruptizer.lol)
