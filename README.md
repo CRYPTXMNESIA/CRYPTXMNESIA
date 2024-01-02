@@ -11,7 +11,9 @@
 - ⚡ Fun fact: **I just do things and if it works then we cool.**
 
 ### Connect with me:
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/retr0dayy)
+<a href="https://twitter.com/retr0dayy" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="retr0dayy" height="30" width="40" />
+</a>
 
 ### Languages and Tools:
 <p align="center">
@@ -116,7 +118,9 @@
   </a>
 </p>
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/retr0dayy)
+<a href="https://www.buymeacoffee.com/retr0dayy"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="retr0dayy" />
+</a>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=retr0dayy&show_icons=true&theme=tokyonight&text_color=ffffff&cache_seconds=60&locale=en)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=retr0dayy&theme=dark)
