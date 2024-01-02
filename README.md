@@ -118,9 +118,16 @@
   </a>
 </p>
 
-<a href="https://www.buymeacoffee.com/retr0dayy"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="retr0dayy" />
-</a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/retr0dayy">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="retr0dayy" height="35" width="150"/>
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=retr0dayy&show_icons=true&theme=tokyonight&text_color=ffffff&cache_seconds=60&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=retr0dayy&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=retr0dayy&show_icons=true&theme=tokyonight&text_color=ffffff&cache_seconds=60&locale=en" alt="retr0dayy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=retr0dayy&theme=dark" alt="retr0dayy" />
+</p>
