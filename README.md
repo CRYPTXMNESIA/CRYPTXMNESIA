@@ -4,7 +4,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/retr0dayy?logo=twitter&style=for-the-badge)](https://twitter.com/retr0dayy)
 
-- 🔭 I’m currently working on [corruptizer](https://corruptizer.lol)
 - 🌱 I’m currently learning **cryptography**
 - 💬 Ask me about **nothing. i have ADHD.**
 - ⚡ Fun fact: **I just do things and if it works then we cool.**
