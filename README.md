@@ -2,7 +2,7 @@
 
 > In our hyperconnected world, I'm just a shadow. The ghost in the machine.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/retr0dayy?logo=twitter&style=for-the-badge)](https://twitter.com/cryptxmnesia)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cryptxmnesia?logo=twitter&style=for-the-badge)](https://twitter.com/cryptxmnesia)
 
 - 🌱 I’m currently learning **cryptography**
 - 💬 Ask me about **nothing. i have ADHD.**
